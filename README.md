@@ -18,9 +18,8 @@ We have addressed this problem for the case where we are allowed to fix the stat
 * [Python3](https://www.python.org/download/releases/3.0/)
 ## Install and Setup Gurobi
 
-1. Create a virtual environment with conda: ```conda create -n trivium_sca python```
-2. Activate the new environment: ```conda activate trivium_sca```
-3. Install the required python packages using pip: ```pip install -r requirements.txt```
-4. Add Gurobi channels as follows: ```conda config --add channels https://conda.anaconda.org/gurobi```
-5. Install Gurobi using conda: ```conda install gurobi``` (academic users can obtain this license)
-6. Activate license using the command: ```grbgetkey <license-number>```
+1. Create a virtual environment with conda: ```conda create -n TMDTO_MILP```
+2. Activate the new environment: ```conda activate TMDTO_MILP```
+3. Add Gurobi channels as follows: ```conda config --add channels https://conda.anaconda.org/gurobi```
+4. Install Gurobi using conda: ```conda install gurobi``` (academic users can obtain this license)
+5. Activate license using the command: ```grbgetkey <license-number>```
