@@ -2,7 +2,7 @@ This repository contains the source codes for the paper, '**Conditional TMDTO as
 
 
 ## Description of the Attack
-In this paper, we have converted the conditional Time-Memory-Data Tradeoffs problem to a set of linear constrainst and objective functions for the case of stream cipher. Briefly, the problem can be stated as follows:
+In this paper, we have converted the conditional Time-Memory-Data Tradeoffs (TMDTO) problem to a set of linear constrainst and objective functions for the case of stream cipher. Briefly, the problem can be stated as follows:
 
 *What is the minimum number of state bits should be fixed in order to recover a maximum number of state variables directly from the keystream bits while guessing rest of the state bits ?* 
 
